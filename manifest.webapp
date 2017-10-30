@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "name": "cocos2dx-html5",
+  "description": "cocos2dx-html5",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/res/pixel.png"
+  },
+  "developer": {
+    "name": "Javier Rengel",
+    "url": "http://coconauts.net/"
+  },
+  "default_locale": "en",
+  "installs_allowed_from": [
+    "*"
+  ],
+  "orientation": "portrait-primary",
+  "fullscreen": "true"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rps-server",
+  "version": "0.0.0",
+  "description": "RPS server using socket.io",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.13.4",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
